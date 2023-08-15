@@ -1,4 +1,4 @@
-# Hi there! I'm Daria ♎
+# Lucky to have you here on Daria's page! ♎
 
 Welcome to my GitHub profile! I'm on an exciting journey through the world of Fintech. My current goal is to challenge myself to create a new project every day.
 
