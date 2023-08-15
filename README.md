@@ -17,11 +17,13 @@ Feel free to connect with me and join me on this learning adventure. Let's colla
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darja-zahvatova-522617153/)
 
+## Tools and Languages 🛠️
+
+Here are some of the tools and languages I'll be using along my coding journey:
+
+- Python 🐍
+- Jupyter Notebook 📓
+- Git & GitHub 🌐
+- Visual Studio Code 💻
+
 *This profile is my testing ground for now, as I work towards creating a more polished profile. Exciting times ahead!* 🌟
-
-💻 *Languages and Tools:* 🛠️<br>
-
-<!---
-DokkUppNull/DokkUppNull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
