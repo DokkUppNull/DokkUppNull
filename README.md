@@ -15,8 +15,7 @@ I'll be sharing my coding journey by creating a variety of projects, both big an
 
 Feel free to connect with me and join me on this learning adventure. Let's collaborate and learn together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/darja-zahvatova-522617153/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darja-zahvatova-522617153/)
 
 *This profile is my testing ground for now, as I work towards creating a more polished profile. Exciting times ahead!* 🌟
 
