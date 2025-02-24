@@ -1,7 +1,8 @@
 # Lucky to have you here on Daria's page! ♎
 
-Welcome to my GitHub profile! 
-I’m on an exciting journey through **AI, Quantitative Finance, and Software Development**. My goal is to challenge myself by building projects that push the boundaries of **machine learning, automation, and financial modeling**.  
+Welcome to my GitHub profile!  
+I’m on an exciting journey through **AI, Quantitative Finance, and Software Development**.  
+My goal is to challenge myself by building projects that push the boundaries of **machine learning, automation, and financial modeling**.  
 
 ## About Me  
 
@@ -25,9 +26,6 @@ I enjoy creating projects that bring together AI, finance, and software engineer
 
 ## Get in Touch 📫  
 
-Let’s connect and collaborate on exciting projects! 🚀 
+Let’s connect and collaborate on exciting projects! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darja-zahvatova-522617153/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darja-zahvatova-522617153/)
-
-
-__*This profile is my creative space, where I experiment and grow as a developer. Exciting times ahead! 🌟_
+*This profile is my creative space, where I experiment and grow as a developer. Exciting times ahead! 🌟_
