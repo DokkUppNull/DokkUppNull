@@ -1,29 +1,33 @@
 # Lucky to have you here on Daria's page! ♎
 
-Welcome to my GitHub profile! I'm on an exciting journey through the world of Fintech. My current goal is to challenge myself to create a new project every day.
+Welcome to my GitHub profile! 
+I’m on an exciting journey through **AI, Quantitative Finance, and Software Development**. My goal is to challenge myself by building projects that push the boundaries of **machine learning, automation, and financial modeling**.  
 
-## About Me 👩‍💻
+## About Me  
 
-- 🌱 I'm currently immersed in learning Python and I'm determined to achieve outstanding results.
-- 💡 I'm passionate about exploring the intersections of finance and technology, and I'm excited to bring my ideas to life.
+- 🚀 Currently diving into **Java** while continuing to develop AI-powered solutions in **Python**.  
+- 💡 Passionate about **AI, Financial Risk Modeling, and Quantitative Analysis**.  
+- 🔬 Love experimenting with **machine learning, deep learning, and algorithmic trading**.  
 
-## Projects 😻
+## Projects & Learning 
 
-I'll be sharing my coding journey by creating a variety of projects, both big and small. Stay tuned for an array of innovative creations!
+I enjoy creating projects that bring together AI, finance, and software engineering. Stay tuned for exciting builds in:  
+- 🤖 **AI & Machine Learning** – Building intelligent models with PyTorch, TensorFlow, and Scikit-Learn.  
+- 📈 **Quantitative Finance** – Risk assessment, forecasting, and algorithmic strategies.  
+- 🛠️ **Automation & Web Scraping** – Automating workflows with Flask, Selenium, and Scrapy.  
 
-## Get in Touch 📫
+## Tools & Languages 🛠️  
 
-Feel free to connect with me and join me on this learning adventure. Let's collaborate and learn together!
+- **Languages:** Python 🐍, Java ☕, R 📊, SQL 🗄️, Bash 🖥️  
+- **AI & Data Science:** PyTorch, TensorFlow, Keras, Scikit-Learn, Power BI  
+- **Web & Automation:** Flask, Selenium, Scrapy, REST APIs  
+- **Cloud & DevOps:** Microsoft Azure, Docker, GitHub Actions  
+
+## Get in Touch 📫  
+
+Let’s connect and collaborate on exciting projects! 🚀 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darja-zahvatova-522617153/)
 
-## Tools and Languages 🛠️
 
-Here are some of the tools and languages I'll be using along my coding journey:
-
-- Python 🐍
-- Jupyter Notebook 📓
-- Git & GitHub 🌐
-- Visual Studio Code 💻
-
-*This profile is my testing ground for now, as I work towards creating a more polished profile. Exciting times ahead!* 🌟
+__*This profile is my creative space, where I experiment and grow as a developer. Exciting times ahead! 🌟_
